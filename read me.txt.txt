@@ -1,0 +1,7 @@
+* The .xml file can be opened with the online tool draw.io to edit.
+
+* The .docx can be opened with Microsoft Office Word 2016.
+
+* .pdf files are provided for both files.
+
+Documentation compiled by Elvis Suazo.
